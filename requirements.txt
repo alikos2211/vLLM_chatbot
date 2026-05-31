@@ -1,0 +1,5 @@
+openai==2.38.0
+pinecone==9.0.1
+sentence-transformers==5.5.1
+python-dotenv==1.2.2
+kagglehub==0.3.4

@@ -174,7 +174,7 @@ A step-by-step guide to running a vLLM OpenAI-compatible server on Windows using
 
 1. Build an Image. Run comand:
 ```bash
-  docker build -t vllm_image: latest
+  docker build -t vllm_image: latest .
 ```
 2. Build Container. Run comand:
 ```bash
